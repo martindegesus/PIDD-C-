@@ -1,0 +1,12 @@
+C:\Users\walter\source\repos\PIDD windows form Csharp\bin\Debug\PIDD windows form Csharp.exe.config
+C:\Users\walter\source\repos\PIDD windows form Csharp\bin\Debug\PIDD windows form Csharp.exe
+C:\Users\walter\source\repos\PIDD windows form Csharp\bin\Debug\PIDD windows form Csharp.pdb
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.csprojAssemblyReference.cache
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD_windows_form_Csharp.PanelFondo.resources
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD_windows_form_Csharp.Properties.Resources.resources
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.csproj.GenerateResource.cache
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.csproj.CoreCompileInputs.cache
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.exe
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.pdb
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\Interop.MLApp.dll
+C:\Users\walter\source\repos\PIDD windows form Csharp\obj\Debug\PIDD windows form Csharp.csproj.ResolveComReference.cache
